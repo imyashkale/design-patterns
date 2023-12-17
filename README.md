@@ -2,8 +2,12 @@
 
 ## Introduction
 
-Welcome to my repository dedicated to the study and practice of design patterns in Go. As a passionate Golang Developer, I am exploring and implementing various design patterns to deepen my understanding and enhance my skills in Go programming.
+This repository is a focused resource for learning and applying design patterns in Go. Aimed at enhancing programming skills in Go, it includes a variety of design patterns implemented and explored in-depth.
 
 ## About This Repository
 
-This repository serves as a living document of my learning journey. Each commit reflects a step in my exploration of design patterns, showcasing practical examples and personal insights. The patterns are studied from [GoLangByExample](https://golangbyexample.com), a resource I find instrumental in my learning process.
+As a living documentation of the learning process, this repository presents practical examples and insights into each design pattern. Patterns are explored with reference to resources like [GoLangByExample](https://golangbyexample.com/all-design-patterns-golang), providing a structured and comprehensive learning experience.
+
+## Location of Examples
+
+All examples of design patterns can be found in the respective folders within this repository. Each folder is named after a specific design pattern, containing code and explanations for that pattern.
